@@ -25,5 +25,5 @@ The project consists of creating a static web page for a specific product. This 
 - Organization of code elements in the file.
 - CSS is optional and will not be taken into consideration.
 
-**The final project can be found here: [View Project](https://laisvigas.github.io/SoulCode/Assignments/Assignments1/)**
+**The final project can be found here: [View Project](https://laisvigas.github.io/SoulCode/Assignments/Assignment1/)**
 
