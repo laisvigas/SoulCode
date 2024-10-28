@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.article-post .first-article-title {
+    color: brown;
+}
+
+.article-post .article-author {
+    color: gray;
+}
+
+#title-page {
+    color: rgb(0, 162, 255);
+}
+
+.article-link {
+    color: rgb(20, 20, 118);
+}
+
+.article-link:visited {
+    color: rgb(190, 36, 9);
+}
+
+.article-link:active {
+    color: rgb(47, 255, 0);
+}
+
+.article-link:focus {
+    border: 2px solid rgb(255, 196, 47);
+}
+
+.article-link:hover {
+    color: rgb(0, 162, 255);
+}
+
+
