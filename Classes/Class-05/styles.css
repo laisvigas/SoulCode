@@ -1,0 +1,15 @@
+h1, h2, p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: orangered;
+}
+
+p {
+    color: black;
+}
