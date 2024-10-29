@@ -1,0 +1,71 @@
+/* Import and basic styles */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+body {
+    padding-bottom: 60px;
+    background-color: rgb(244, 228, 138);
+    margin: 0px
+}
+
+main {
+    max-width: 50rem;
+    margin: 0 auto;
+    padding-bottom: 80px;
+}
+
+h1, h2 {
+    font-family: Roboto Mono;
+}
+
+h1, h2, p {
+    text-align: center;
+    margin: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+.bg-illustration{
+    background-image: url("https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUxclkHWGnFRCxvtcuBcKLUjBie9xq4M41atPHpT2JCKAG-Vaj94ZgkG5a_UKlqNLNhb0lci6Mko6dBvX66DaqYIJz_PpsPqaNfC.jpg?r=8dd");
+    height: 200px;
+    max-width: 50rem;
+    box-sizing: border-box;
+}
+
+.paragraph {
+    box-sizing: border-box;
+    border-left: 10px solid gray;
+    border-right: 10px solid gray;
+}
+
+
+.head-footer-bg {
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 3px 0px 10px rgb(131, 124, 124);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    text-align: center;
+}
+
+.rights {
+    font-style: italic;
+}
+
+.brand-name {
+    font-weight: bold;
+}
