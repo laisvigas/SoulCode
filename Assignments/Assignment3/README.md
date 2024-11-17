@@ -24,4 +24,4 @@ The calculator should have a simple interface with the following elements:
 ## Extras (Optional)
 - Add extra functionalities such as percentage (%), decimal point (.).
 
-**The final project can be found here: [View Project](https://laisvigas.github.io/SoulCode/Assignments3/Assignment2/)**
+**The final project can be found here: [View Project](https://laisvigas.github.io/SoulCode/Assignments/Assignment3/)**
